@@ -27,3 +27,6 @@
 ---
 
 ###Nota: las funciones son fake
+
+
+Reset y luego revert
