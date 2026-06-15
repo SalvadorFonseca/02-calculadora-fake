@@ -10,3 +10,8 @@
 ###Función resta
 
 ---
+
+---
+###Función división
+
+---
