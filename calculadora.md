@@ -1,29 +1,31 @@
-###Calculadora fake
+### Calculadora fake
 
 ---
 
-###Funcion suma
-
----
-
----
-###Función resta
+### Funcion suma
 
 ---
 
 ---
-###Función división
+### Función resta
 
 ---
 
 ---
-###Función multiplicación
+### Función división
 
 ---
 
 ---
-###Función raiz cuadrada
+### Función multiplicación
 
 ---
 
-###Nota: las funciones son fake
+---
+### Función raiz cuadrada
+
+---
+
+### Nota: las funciones son fake
+
+-tecto para pull
