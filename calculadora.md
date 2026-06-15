@@ -15,3 +15,8 @@
 ###Función división
 
 ---
+
+---
+###Función multiplicación
+
+---
