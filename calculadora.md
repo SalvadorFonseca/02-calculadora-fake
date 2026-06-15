@@ -20,3 +20,8 @@
 ###Función multiplicación
 
 ---
+
+---
+###Función raiz cuadrada
+
+---
