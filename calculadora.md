@@ -25,3 +25,5 @@
 ###Función raiz cuadrada
 
 ---
+
+###Nota: las funciones son fake
